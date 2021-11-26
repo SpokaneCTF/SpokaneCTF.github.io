@@ -51,7 +51,7 @@ header {
     font-weight: 400;
     color: #f6f7eb;
     text-decoration: none;
-    margin-right: 14px;
+    margin-right: 10px;
 }
 
 .topnav a:hover{
@@ -93,6 +93,10 @@ h2 {
 .image
 {
     padding: 0;
+}
+
+.form {
+  background-color: #4c7ea7
 }
 
 strong { font-weight: bold;
