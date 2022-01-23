@@ -9,6 +9,7 @@ Black: #000
 
 <ul id="navbar">
 <li>Home
+Covid
 Schedule
 About
 Volunteer
